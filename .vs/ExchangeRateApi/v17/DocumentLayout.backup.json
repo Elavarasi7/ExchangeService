@@ -1,0 +1,342 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eb1\\source\\repos\\ExchangeRateApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{844EA4DE-D1E6-4568-9B12-B05D1F31EFDE}|ExchangeRateApi\\ExchangeRateApi.csproj|c:\\users\\eb1\\source\\repos\\exchangerateapi\\exchangerateapi\\infrastructure\\flurlbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844EA4DE-D1E6-4568-9B12-B05D1F31EFDE}|ExchangeRateApi\\ExchangeRateApi.csproj|solutionrelative:exchangerateapi\\infrastructure\\flurlbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844EA4DE-D1E6-4568-9B12-B05D1F31EFDE}|ExchangeRateApi\\ExchangeRateApi.csproj|c:\\users\\eb1\\source\\repos\\exchangerateapi\\exchangerateapi\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{844EA4DE-D1E6-4568-9B12-B05D1F31EFDE}|ExchangeRateApi\\ExchangeRateApi.csproj|solutionrelative:exchangerateapi\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844EA4DE-D1E6-4568-9B12-B05D1F31EFDE}|ExchangeRateApi\\ExchangeRateApi.csproj|c:\\users\\eb1\\source\\repos\\exchangerateapi\\exchangerateapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844EA4DE-D1E6-4568-9B12-B05D1F31EFDE}|ExchangeRateApi\\ExchangeRateApi.csproj|solutionrelative:exchangerateapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844EA4DE-D1E6-4568-9B12-B05D1F31EFDE}|ExchangeRateApi\\ExchangeRateApi.csproj|c:\\users\\eb1\\source\\repos\\exchangerateapi\\exchangerateapi\\models\\generichttpresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844EA4DE-D1E6-4568-9B12-B05D1F31EFDE}|ExchangeRateApi\\ExchangeRateApi.csproj|solutionrelative:exchangerateapi\\models\\generichttpresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844EA4DE-D1E6-4568-9B12-B05D1F31EFDE}|ExchangeRateApi\\ExchangeRateApi.csproj|c:\\users\\eb1\\source\\repos\\exchangerateapi\\exchangerateapi\\servicesproviders\\exchangerateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844EA4DE-D1E6-4568-9B12-B05D1F31EFDE}|ExchangeRateApi\\ExchangeRateApi.csproj|solutionrelative:exchangerateapi\\servicesproviders\\exchangerateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844EA4DE-D1E6-4568-9B12-B05D1F31EFDE}|ExchangeRateApi\\ExchangeRateApi.csproj|c:\\users\\eb1\\source\\repos\\exchangerateapi\\exchangerateapi\\interfaces\\iexchangerateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844EA4DE-D1E6-4568-9B12-B05D1F31EFDE}|ExchangeRateApi\\ExchangeRateApi.csproj|solutionrelative:exchangerateapi\\interfaces\\iexchangerateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92C705A-ECE2-4640-A8E7-FAEC7D056CB1}|ExchangeRateTests\\ExchangeRateTests.csproj|c:\\users\\eb1\\source\\repos\\exchangerateapi\\exchangeratetests\\unittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92C705A-ECE2-4640-A8E7-FAEC7D056CB1}|ExchangeRateTests\\ExchangeRateTests.csproj|solutionrelative:exchangeratetests\\unittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844EA4DE-D1E6-4568-9B12-B05D1F31EFDE}|ExchangeRateApi\\ExchangeRateApi.csproj|c:\\users\\eb1\\source\\repos\\exchangerateapi\\exchangerateapi\\controllers\\exchangeratecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844EA4DE-D1E6-4568-9B12-B05D1F31EFDE}|ExchangeRateApi\\ExchangeRateApi.csproj|solutionrelative:exchangerateapi\\controllers\\exchangeratecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E92C705A-ECE2-4640-A8E7-FAEC7D056CB1}|ExchangeRateTests\\ExchangeRateTests.csproj|c:\\users\\eb1\\source\\repos\\exchangerateapi\\exchangeratetests\\exchangeratetests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E92C705A-ECE2-4640-A8E7-FAEC7D056CB1}|ExchangeRateTests\\ExchangeRateTests.csproj|solutionrelative:exchangeratetests\\exchangeratetests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844EA4DE-D1E6-4568-9B12-B05D1F31EFDE}|ExchangeRateApi\\ExchangeRateApi.csproj|c:\\users\\eb1\\source\\repos\\exchangerateapi\\exchangerateapi\\exchangerateapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{844EA4DE-D1E6-4568-9B12-B05D1F31EFDE}|ExchangeRateApi\\ExchangeRateApi.csproj|solutionrelative:exchangerateapi\\exchangerateapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844EA4DE-D1E6-4568-9B12-B05D1F31EFDE}|ExchangeRateApi\\ExchangeRateApi.csproj|c:\\users\\eb1\\source\\repos\\exchangerateapi\\exchangerateapi\\models\\exchangepairapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844EA4DE-D1E6-4568-9B12-B05D1F31EFDE}|ExchangeRateApi\\ExchangeRateApi.csproj|solutionrelative:exchangerateapi\\models\\exchangepairapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844EA4DE-D1E6-4568-9B12-B05D1F31EFDE}|ExchangeRateApi\\ExchangeRateApi.csproj|c:\\users\\eb1\\source\\repos\\exchangerateapi\\exchangerateapi\\models\\exchangerateapioptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844EA4DE-D1E6-4568-9B12-B05D1F31EFDE}|ExchangeRateApi\\ExchangeRateApi.csproj|solutionrelative:exchangerateapi\\models\\exchangerateapioptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844EA4DE-D1E6-4568-9B12-B05D1F31EFDE}|ExchangeRateApi\\ExchangeRateApi.csproj|c:\\users\\eb1\\source\\repos\\exchangerateapi\\exchangerateapi\\using.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844EA4DE-D1E6-4568-9B12-B05D1F31EFDE}|ExchangeRateApi\\ExchangeRateApi.csproj|solutionrelative:exchangerateapi\\using.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844EA4DE-D1E6-4568-9B12-B05D1F31EFDE}|ExchangeRateApi\\ExchangeRateApi.csproj|c:\\users\\eb1\\source\\repos\\exchangerateapi\\exchangerateapi\\interfaces\\iflurlbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844EA4DE-D1E6-4568-9B12-B05D1F31EFDE}|ExchangeRateApi\\ExchangeRateApi.csproj|solutionrelative:exchangerateapi\\interfaces\\iflurlbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eb1\\AppData\\Local\\Temp\\.vsdbgsrc\\3b42384b539305ce6bd5b25355c88bb4e688ab644894eabaffa5981e085f8461\\ServiceProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844EA4DE-D1E6-4568-9B12-B05D1F31EFDE}|ExchangeRateApi\\ExchangeRateApi.csproj|c:\\users\\eb1\\source\\repos\\exchangerateapi\\exchangerateapi\\models\\exchangeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{844EA4DE-D1E6-4568-9B12-B05D1F31EFDE}|ExchangeRateApi\\ExchangeRateApi.csproj|solutionrelative:exchangerateapi\\models\\exchangeresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844EA4DE-D1E6-4568-9B12-B05D1F31EFDE}|ExchangeRateApi\\ExchangeRateApi.csproj|c:\\users\\eb1\\source\\repos\\exchangerateapi\\exchangerateapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{844EA4DE-D1E6-4568-9B12-B05D1F31EFDE}|ExchangeRateApi\\ExchangeRateApi.csproj|solutionrelative:exchangerateapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844EA4DE-D1E6-4568-9B12-B05D1F31EFDE}|ExchangeRateApi\\ExchangeRateApi.csproj|c:\\users\\eb1\\source\\repos\\exchangerateapi\\exchangerateapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{844EA4DE-D1E6-4568-9B12-B05D1F31EFDE}|ExchangeRateApi\\ExchangeRateApi.csproj|solutionrelative:exchangerateapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{844EA4DE-D1E6-4568-9B12-B05D1F31EFDE}|ExchangeRateApi\\ExchangeRateApi.csproj|c:\\users\\eb1\\source\\repos\\exchangerateapi\\exchangerateapi\\exchangerateapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{844EA4DE-D1E6-4568-9B12-B05D1F31EFDE}|ExchangeRateApi\\ExchangeRateApi.csproj|solutionrelative:exchangerateapi\\exchangerateapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 151,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IExchangeRateProvider.cs",
+              "DocumentMoniker": "C:\\Users\\eb1\\source\\repos\\ExchangeRateApi\\ExchangeRateApi\\Interfaces\\IExchangeRateProvider.cs",
+              "RelativeDocumentMoniker": "ExchangeRateApi\\Interfaces\\IExchangeRateProvider.cs",
+              "ToolTip": "C:\\Users\\eb1\\source\\repos\\ExchangeRateApi\\ExchangeRateApi\\Interfaces\\IExchangeRateProvider.cs",
+              "RelativeToolTip": "ExchangeRateApi\\Interfaces\\IExchangeRateProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T08:36:41.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExchangeRateTests",
+              "DocumentMoniker": "C:\\Users\\eb1\\source\\repos\\ExchangeRateApi\\ExchangeRateTests\\ExchangeRateTests.csproj",
+              "RelativeDocumentMoniker": "ExchangeRateTests\\ExchangeRateTests.csproj",
+              "ToolTip": "C:\\Users\\eb1\\source\\repos\\ExchangeRateApi\\ExchangeRateTests\\ExchangeRateTests.csproj",
+              "RelativeToolTip": "ExchangeRateTests\\ExchangeRateTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-09T10:37:49.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ExchangeRateApi",
+              "DocumentMoniker": "C:\\Users\\eb1\\source\\repos\\ExchangeRateApi\\ExchangeRateApi\\ExchangeRateApi.csproj",
+              "RelativeDocumentMoniker": "ExchangeRateApi\\ExchangeRateApi.csproj",
+              "ToolTip": "C:\\Users\\eb1\\source\\repos\\ExchangeRateApi\\ExchangeRateApi\\ExchangeRateApi.csproj*",
+              "RelativeToolTip": "ExchangeRateApi\\ExchangeRateApi.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-09T10:37:48.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ExchangeRateApiOptions.cs",
+              "DocumentMoniker": "C:\\Users\\eb1\\source\\repos\\ExchangeRateApi\\ExchangeRateApi\\Models\\ExchangeRateApiOptions.cs",
+              "RelativeDocumentMoniker": "ExchangeRateApi\\Models\\ExchangeRateApiOptions.cs",
+              "ToolTip": "C:\\Users\\eb1\\source\\repos\\ExchangeRateApi\\ExchangeRateApi\\Models\\ExchangeRateApiOptions.cs",
+              "RelativeToolTip": "ExchangeRateApi\\Models\\ExchangeRateApiOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T10:33:35.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExchangePairApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\eb1\\source\\repos\\ExchangeRateApi\\ExchangeRateApi\\Models\\ExchangePairApiResponse.cs",
+              "RelativeDocumentMoniker": "ExchangeRateApi\\Models\\ExchangePairApiResponse.cs",
+              "ToolTip": "C:\\Users\\eb1\\source\\repos\\ExchangeRateApi\\ExchangeRateApi\\Models\\ExchangePairApiResponse.cs",
+              "RelativeToolTip": "ExchangeRateApi\\Models\\ExchangePairApiResponse.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAuwA4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T10:33:34.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ServiceProvider.cs",
+              "DocumentMoniker": "C:\\Users\\eb1\\AppData\\Local\\Temp\\.vsdbgsrc\\3b42384b539305ce6bd5b25355c88bb4e688ab644894eabaffa5981e085f8461\\ServiceProvider.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\3b42384b539305ce6bd5b25355c88bb4e688ab644894eabaffa5981e085f8461\\ServiceProvider.cs",
+              "ToolTip": "C:\\Users\\eb1\\AppData\\Local\\Temp\\.vsdbgsrc\\3b42384b539305ce6bd5b25355c88bb4e688ab644894eabaffa5981e085f8461\\ServiceProvider.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\3b42384b539305ce6bd5b25355c88bb4e688ab644894eabaffa5981e085f8461\\ServiceProvider.cs [Read Only]",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAFwAAAAjAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T10:17:37.473Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnitTest.cs",
+              "DocumentMoniker": "C:\\Users\\eb1\\source\\repos\\ExchangeRateApi\\ExchangeRateTests\\UnitTest.cs",
+              "RelativeDocumentMoniker": "ExchangeRateTests\\UnitTest.cs",
+              "ToolTip": "C:\\Users\\eb1\\source\\repos\\ExchangeRateApi\\ExchangeRateTests\\UnitTest.cs",
+              "RelativeToolTip": "ExchangeRateTests\\UnitTest.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T07:32:03.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenericHttpResponse.cs",
+              "DocumentMoniker": "C:\\Users\\eb1\\source\\repos\\ExchangeRateApi\\ExchangeRateApi\\Models\\GenericHttpResponse.cs",
+              "RelativeDocumentMoniker": "ExchangeRateApi\\Models\\GenericHttpResponse.cs",
+              "ToolTip": "C:\\Users\\eb1\\source\\repos\\ExchangeRateApi\\ExchangeRateApi\\Models\\GenericHttpResponse.cs",
+              "RelativeToolTip": "ExchangeRateApi\\Models\\GenericHttpResponse.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAADIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T09:29:20.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IFlurlBase.cs",
+              "DocumentMoniker": "C:\\Users\\eb1\\source\\repos\\ExchangeRateApi\\ExchangeRateApi\\Interfaces\\IFlurlBase.cs",
+              "RelativeDocumentMoniker": "ExchangeRateApi\\Interfaces\\IFlurlBase.cs",
+              "ToolTip": "C:\\Users\\eb1\\source\\repos\\ExchangeRateApi\\ExchangeRateApi\\Interfaces\\IFlurlBase.cs",
+              "RelativeToolTip": "ExchangeRateApi\\Interfaces\\IFlurlBase.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T09:00:24.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FlurlBase.cs",
+              "DocumentMoniker": "C:\\Users\\eb1\\source\\repos\\ExchangeRateApi\\ExchangeRateApi\\Infrastructure\\FlurlBase.cs",
+              "RelativeDocumentMoniker": "ExchangeRateApi\\Infrastructure\\FlurlBase.cs",
+              "ToolTip": "C:\\Users\\eb1\\source\\repos\\ExchangeRateApi\\ExchangeRateApi\\Infrastructure\\FlurlBase.cs",
+              "RelativeToolTip": "ExchangeRateApi\\Infrastructure\\FlurlBase.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAkwBoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T08:59:58.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "README.txt",
+              "DocumentMoniker": "C:\\Users\\eb1\\source\\repos\\ExchangeRateApi\\ExchangeRateApi\\README.txt",
+              "RelativeDocumentMoniker": "ExchangeRateApi\\README.txt",
+              "ToolTip": "C:\\Users\\eb1\\source\\repos\\ExchangeRateApi\\ExchangeRateApi\\README.txt",
+              "RelativeToolTip": "ExchangeRateApi\\README.txt",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-03-09T08:28:36.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Using.cs",
+              "DocumentMoniker": "C:\\Users\\eb1\\source\\repos\\ExchangeRateApi\\ExchangeRateApi\\Using.cs",
+              "RelativeDocumentMoniker": "ExchangeRateApi\\Using.cs",
+              "ToolTip": "C:\\Users\\eb1\\source\\repos\\ExchangeRateApi\\ExchangeRateApi\\Using.cs",
+              "RelativeToolTip": "ExchangeRateApi\\Using.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T08:28:35.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ExchangeResponse.cs",
+              "DocumentMoniker": "C:\\Users\\eb1\\source\\repos\\ExchangeRateApi\\ExchangeRateApi\\Models\\ExchangeResponse.cs",
+              "RelativeDocumentMoniker": "ExchangeRateApi\\Models\\ExchangeResponse.cs",
+              "ToolTip": "C:\\Users\\eb1\\source\\repos\\ExchangeRateApi\\ExchangeRateApi\\Models\\ExchangeResponse.cs",
+              "RelativeToolTip": "ExchangeRateApi\\Models\\ExchangeResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T08:05:27.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExchangeRateProvider.cs",
+              "DocumentMoniker": "C:\\Users\\eb1\\source\\repos\\ExchangeRateApi\\ExchangeRateApi\\ServicesProviders\\ExchangeRateProvider.cs",
+              "RelativeDocumentMoniker": "ExchangeRateApi\\ServicesProviders\\ExchangeRateProvider.cs",
+              "ToolTip": "C:\\Users\\eb1\\source\\repos\\ExchangeRateApi\\ExchangeRateApi\\ServicesProviders\\ExchangeRateProvider.cs*",
+              "RelativeToolTip": "ExchangeRateApi\\ServicesProviders\\ExchangeRateProvider.cs*",
+              "ViewState": "AgIAACYAAAAAAAAAAAAxwD8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T08:03:52.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\eb1\\source\\repos\\ExchangeRateApi\\ExchangeRateApi\\appsettings.json",
+              "RelativeDocumentMoniker": "ExchangeRateApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\eb1\\source\\repos\\ExchangeRateApi\\ExchangeRateApi\\appsettings.json",
+              "RelativeToolTip": "ExchangeRateApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-09T07:58:57.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\eb1\\source\\repos\\ExchangeRateApi\\ExchangeRateApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ExchangeRateApi\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\eb1\\source\\repos\\ExchangeRateApi\\ExchangeRateApi\\appsettings.Development.json",
+              "RelativeToolTip": "ExchangeRateApi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-09T07:58:56.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\eb1\\source\\repos\\ExchangeRateApi\\ExchangeRateApi\\Program.cs",
+              "RelativeDocumentMoniker": "ExchangeRateApi\\Program.cs",
+              "ToolTip": "C:\\Users\\eb1\\source\\repos\\ExchangeRateApi\\ExchangeRateApi\\Program.cs*",
+              "RelativeToolTip": "ExchangeRateApi\\Program.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T07:29:24.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ExchangeRateApi.http",
+              "DocumentMoniker": "C:\\Users\\eb1\\source\\repos\\ExchangeRateApi\\ExchangeRateApi\\ExchangeRateApi.http",
+              "RelativeDocumentMoniker": "ExchangeRateApi\\ExchangeRateApi.http",
+              "ToolTip": "C:\\Users\\eb1\\source\\repos\\ExchangeRateApi\\ExchangeRateApi\\ExchangeRateApi.http",
+              "RelativeToolTip": "ExchangeRateApi\\ExchangeRateApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-03-09T07:29:20.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExchangeRateController.cs",
+              "DocumentMoniker": "C:\\Users\\eb1\\source\\repos\\ExchangeRateApi\\ExchangeRateApi\\Controllers\\ExchangeRateController.cs",
+              "RelativeDocumentMoniker": "ExchangeRateApi\\Controllers\\ExchangeRateController.cs",
+              "ToolTip": "C:\\Users\\eb1\\source\\repos\\ExchangeRateApi\\ExchangeRateApi\\Controllers\\ExchangeRateController.cs",
+              "RelativeToolTip": "ExchangeRateApi\\Controllers\\ExchangeRateController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T07:29:15.221Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

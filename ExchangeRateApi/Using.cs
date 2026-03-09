@@ -1,0 +1,12 @@
+﻿global using System.Net;
+global using Microsoft.Extensions.Options;
+global using ExchangeRateApi.Models;
+global using ExchangeRateApi.Interfaces;
+global using Microsoft.AspNetCore.Mvc;
+global using ExchangeRateApi.Services;
+global using System.Text.Json.Serialization;
+global using Flurl.Http;
+global using ExchangeRateApi.Infrastructure;
+global using Flurl;
+global using Polly.Retry;
+global using Polly;

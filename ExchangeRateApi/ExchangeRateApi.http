@@ -1,0 +1,12 @@
+@ExchangeService_HostAddress = http://localhost:5074
+
+POST {{ExchangeService_HostAddress}}/Convert/
+Accept: application/json
+Content-Type: application/json
+{
+    "FromCurrency": "USD",
+    "ToCurrency": "EUR",
+    "Amount": 100
+}
+
+###
